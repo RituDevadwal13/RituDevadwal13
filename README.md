@@ -1,5 +1,5 @@
-- Hi, I’m Ritu.
-- I'm a 3rd year B.Tech student at IIT Madras.
+- Hi, I’m Ritu!
+- I'm a 3rd year Electrical Engineering student at IIT Madras.
 - I know HTML, CSS, Javascript, Bootstrap, Python.
 - I also have done data structure and algorithm course.  
 - Currently, I am learning django and react js.
